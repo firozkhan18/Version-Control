@@ -1,6 +1,6 @@
 # Version-Control
 
-🖥️ GIT COMMANDS CHEAT SHEET
+### 🖥️ GIT COMMANDS CHEAT SHEET
 
 ### Set configuration values for your username and email
 git config --global user.name YOUR NAME
@@ -16,13 +16,13 @@ git COMMAND -h
 ### Initialize a new git repository
 git init
 
-Clone a repository
+### Clone a repository
 git clone REPOSITORY URL
 
-Add a file to the staging area
+### Add a file to the staging area
 git add FILE
 
-Add all file changes to the staging area
+### Add all file changes to the staging area
 git add --all
 git add -A
 git add .
