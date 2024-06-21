@@ -67,5 +67,3 @@ GitHub's additional features like Actions, Projects, Wiki, Security, Insights, a
 Releases in GitHub allow you to create a tagged snapshot of your code at a specific point in time.
 
 Fetching and pulling fetches changes from a remote repository and updates your local repository with those changes.
-
-The wrap-up section summarizes the Git workflow and key concepts covered in the tutorial.
