@@ -12,7 +12,7 @@ firoz@khan MINGW64:~
 
 $ git config --global init.default branch main
 
-# help
+## help
 
 firoz@khan MINGW64:~
 
@@ -22,13 +22,13 @@ firoz@khan MINGW64:~
 
 $ git help config
 
-# Change the directory
+## Change the directory
 
 firoz@khan MINGW64:~
 
 $ cd c:/Users/firozkhan
 
-# Initialized the git repository
+## Initialized the git repository
 
 firoz@khan MINGW64 /c/Users/firozkhan
 
@@ -36,7 +36,7 @@ $ git init
 
 Initialized empty Git repository in C:/Users/firozkhan/.git/
 
-# To get the status:
+## To get the status:
 
 firoz@khan MINGW64 /c/Users/firozkhan (main)
 
@@ -56,7 +56,7 @@ Untracked files:
   
 nothing added to commit but untracked files present (use "git add" to track)
 
-# To track the file:
+## To track the file:
 
 firoz@khan MINGW64 /c/Users/firozkhan (main)
 
@@ -82,7 +82,7 @@ Untracked files:
  
 	 test.txt
 
-# To untrack/remove the file:
+## To untrack/remove the file:
 
 firoz@khan MINGW64 /c/Users/firozkhan (main)
 
@@ -90,7 +90,7 @@ $ git rm --cached abc.txt
 
 rm abc.txt
 
-# Again get the status:
+## Again get the status:
 
 firoz@khan MINGW64 /c/Users/firozkhan (main)
 
@@ -114,7 +114,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 .gitignore:
 
-# ingonre all .txt files
+## ingonre all .txt files
 
 *.htm
 
@@ -138,13 +138,13 @@ Untracked files:
   
 nothing added to commit but untracked files present (use "git add" to track)
 
-# Clear the command prommpt
+## Clear the command prommpt
 
 firoz@khan MINGW64 /c/Users/firozkhan (main)
 
 $ clear
 
-# Track all the files inside the directory:
+## Track all the files inside the directory:
 
 firoz@khan MINGW64 /c/Users/firozkhan (main)
 
@@ -174,7 +174,7 @@ Changes to be committed:
  
   	new file: test.txt 
 
-# Commit the code with message
+## Commit the code with message
 
 firoz@khan MINGW64 /c/Users/firozkhan (main)
 
