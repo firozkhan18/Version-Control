@@ -51,8 +51,8 @@ Untracked files:
 	(Use "git add <>..." to include in what will be committed)
  
          abc.txt
-	 
-	 test.txt
+	
+ 	 test.txt
   
 nothing added to commit but untracked files present (use "git add" to track)
 
