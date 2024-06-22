@@ -4,6 +4,7 @@
 
 ### Set configuration values for your username and email
 git config --global user.name YOUR NAME
+
 git config --global user.email YOUR EMAIL
 
 ### Set default branch to main
@@ -11,6 +12,7 @@ git config --global init.default branch main
 
 ### Get help on a command
 git help COMMAND
+
 git COMMAND -h
 
 ### Initialize a new git repository
@@ -24,7 +26,9 @@ git add FILE
 
 ### Add all file changes to the staging area
 git add --all
+
 git add -A
+
 git add .
 
 ### Check the unstaged changes
@@ -46,7 +50,7 @@ git rm FILENAME
 git mv (OLD NAME) (NEW NAME)
 
 ### List the commit history
-### git log
+git log
 
 ### List all the local branches
 git branch
